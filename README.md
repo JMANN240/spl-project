@@ -5,6 +5,10 @@ This is a project for SPL comparing two programming languages by writing the sam
 
 I compare compiled vs interpreted, static vs dynamic typing, and pass by value vs pass by reference.
 
-Rust compiler used: rustc 1.53.0-nightly
+## Rust compiler used: rustc 1.53.0-nightly
 
-Python interpreter used: python 3.8.0
+*Example:* `cargo run`
+
+## Python interpreter used: python 3.8.0
+
+*Example:* `python3 main.py`
